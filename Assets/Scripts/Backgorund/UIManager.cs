@@ -8,7 +8,7 @@ public class UIManager : MonoBehaviour
     public GameObject gameover;
     public static UIManager instance;
     public GameObject finish;
-   
+
 
     private void Awake()
     {
@@ -56,30 +56,33 @@ public class UIManager : MonoBehaviour
         gameover.SetActive(true);
         Time.timeScale = 0f;
         SoundManager.instance.PlayerSound();
-}
+    }
 
     public void FinishPanel()
     {
-        if (finish!=null)
+        if (finish != null)
         {
             finish.SetActive(true);
-            Time.timeScale = 0f;
-            SoundManager.instance.WinSound();
+            Time.timeScale = 1f;
         }
-        
+        if (SoundManager.instance != null)
+        {
+            SoundManager.instance.WinSound();
+        }     
     }
 
     public void TekrarOyna()
     {
         SoundManager.instance.MouseClick();
         SceneManager.LoadScene("Level_1");
-        Time.timeScale = 1f;
+        Time.timeScale = 1f;        
     }
+
     public void AnaMenü()
     {
         SoundManager.instance.MouseClick();
         Time.timeScale = 1f;
         SceneManager.LoadScene("MaýnMenü");
     }
-
 }
+

@@ -3,44 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|c:\\users\\hp\\desktop\\masa\u00FCst\u00FC\\spaceshoter\\assets\\scripts\\backgorund\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgorund\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\backgorund\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgorund\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\backgorund\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgorund\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\player\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\d\u00FC\u015Fman\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\d\u00FC\u015Fman\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\d\u00FC\u015Fman\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\d\u00FC\u015Fman\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\backgorund\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgorund\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\backgorund\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgorund\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\d\u00FC\u015Fman\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\d\u00FC\u015Fman\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\backgorund\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgorund\\anamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\backgorund\\spawnplanes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,6 +31,30 @@
       "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgorund\\objemoment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\backgorund\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgorund\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|c:\\users\\hp\\desktop\\masa\u00FCst\u00FC\\spaceshoter\\assets\\scripts\\backgorund\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgorund\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\d\u00FC\u015Fman\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\d\u00FC\u015Fman\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\d\u00FC\u015Fman\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\d\u00FC\u015Fman\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\assets\\scripts\\d\u00FC\u015Fman\\damagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CA8E19-64FB-BA38-6462-AE5321B9FDC6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\d\u00FC\u015Fman\\damagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,13 +74,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "SoundManager.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Backgorund\\SoundManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Backgorund\\SoundManager.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Backgorund\\SoundManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Backgorund\\SoundManager.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-01T15:39:38.897Z",
               "EditorCaption": ""
@@ -100,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Backgorund\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Backgorund\\GameManager.cs",
@@ -113,20 +113,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "UIManager.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Backgorund\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Backgorund\\UIManager.cs",
               "ToolTip": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Backgorund\\UIManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Backgorund\\UIManager.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwEwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T19:59:58.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "EnemyBullet.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\D\u00FC\u015Fman\\EnemyBullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\D\u00FC\u015Fman\\EnemyBullet.cs",
@@ -139,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\D\u00FC\u015Fman\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\D\u00FC\u015Fman\\EnemyHealth.cs",
@@ -152,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Player\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
@@ -165,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "BulletController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Player\\BulletController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\BulletController.cs",
@@ -178,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "EnemyController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\D\u00FC\u015Fman\\EnemyController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\D\u00FC\u015Fman\\EnemyController.cs",
@@ -190,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "SpawnPlanes.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Backgorund\\SpawnPlanes.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Backgorund\\SpawnPlanes.cs",
@@ -198,11 +198,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Backgorund\\SpawnPlanes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T05:52:19.987Z"
+              "WhenOpened": "2026-04-21T05:52:19.987Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "BackgroundReply.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Backgorund\\BackgroundReply.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Backgorund\\BackgroundReply.cs",
@@ -210,11 +211,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Backgorund\\BackgroundReply.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T17:34:27.02Z"
+              "WhenOpened": "2026-04-20T17:34:27.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "ObjeMoment.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Backgorund\\ObjeMoment.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Backgorund\\ObjeMoment.cs",
@@ -222,7 +224,8 @@
               "RelativeToolTip": "Assets\\Scripts\\Backgorund\\ObjeMoment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T17:28:56.666Z"
+              "WhenOpened": "2026-04-20T17:28:56.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -238,13 +241,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Player\\PlayerController.cs*",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\masa\u00FCst\u00FC\\SpaceShoter\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-18T05:12:44.441Z",
               "EditorCaption": ""

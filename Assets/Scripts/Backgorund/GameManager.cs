@@ -38,7 +38,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    
+
     IEnumerator SahneGecisSureci()
     {
         
@@ -46,9 +46,10 @@ public class GameManager : MonoBehaviour
         {
             gecisPaneli.SetActive(true);
         }
-        
-        yield return new WaitForSeconds(.8f);
+
        
+        yield return new WaitForSeconds(.8f);
+
         string sahneAdi = SceneManager.GetActiveScene().name;
 
         if (sahneAdi == "Level_1")
@@ -61,7 +62,11 @@ public class GameManager : MonoBehaviour
         }
         else if (sahneAdi == "Level_3")
         {
-            UIManager.instance.FinishPanel();
+           
+            if (UIManager.instance != null)
+            {
+                UIManager.instance.FinishPanel();
+            }
         }
     }
 }
