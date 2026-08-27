@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// Oyunun UI panellerini, zamanýn durdurulmasý/baþlatýlmasý gibi oyun içi akýþ durumlarýný ve sahne geçiþlerini merkezi olarak yönetiyoruz.
 public class UIManager : MonoBehaviour
 {
     public GameObject pausePanel;
@@ -12,11 +13,13 @@ public class UIManager : MonoBehaviour
 
     private void Awake()
     {
+        // Game Over ve Finish gibi tetikleyicilere diðer scriptlerden anýnda ulaþabilmek için Singleton yapýsýný kuruyoruz.
         instance = this;
     }
 
     private void Update()
     {
+        // Klavyeden ESC tuþuna basýldýðýnda oyunu duraklatma/devam ettirme mekanizmasýný tetikliyoruz.
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             DurumDegistir();
@@ -24,6 +27,7 @@ public class UIManager : MonoBehaviour
     }
     void DurumDegistir()
     {
+        // Oyunun durdurulma durumunu (true/false) tersine çeviriyoruz.
         oyunudurdur = !oyunudurdur;
         if (oyunudurdur)
         {
@@ -38,6 +42,7 @@ public class UIManager : MonoBehaviour
     }
     public void PaneliAc()
     {
+        // UI butonlarý üzerinden manuel olarak oyunu duraklatmak istediðimizde bu metodu kullanýyoruz.
         if (!oyunudurdur)
         {
             SoundManager.instance.MouseClick();
@@ -60,6 +65,7 @@ public class UIManager : MonoBehaviour
 
     public void FinishPanel()
     {
+        // Bölüm/Oyun baþarýyla tamamlandýðýnda kazanma panelini aktif ediyor ve özel kazanma müziðini çalýyoruz.
         if (finish != null)
         {
             finish.SetActive(true);
@@ -73,6 +79,8 @@ public class UIManager : MonoBehaviour
 
     public void TekrarOyna()
     {
+        // Karakter öldükten veya oyun bittikten sonra tekrar oynamak için zamaný sýfýrlayýp Level_1 sahnesini yeniden yüklüyoruz.
+        SoundManager.instance.MouseClick();
         SoundManager.instance.MouseClick();
         SceneManager.LoadScene("Level_1");
         Time.timeScale = 1f;        
@@ -80,6 +88,7 @@ public class UIManager : MonoBehaviour
 
     public void AnaMenü()
     {
+        // Ana menüye dön butonuna týklandýðýnda zaman döngüsünü düzeltip giriþ sahnesine geçiþ yapýyoru
         SoundManager.instance.MouseClick();
         Time.timeScale = 1f;
         SceneManager.LoadScene("MaýnMenü");

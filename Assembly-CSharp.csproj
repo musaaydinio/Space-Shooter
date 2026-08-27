@@ -61,19 +61,19 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.1.11f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Enemy\EnemyController.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\Backgorund\SpawnPlanes.cs" />
     <Compile Include="Assets\Scripts\Backgorund\SoundManager.cs" />
     <Compile Include="Assets\Scripts\Backgorund\GameManager.cs" />
-    <Compile Include="Assets\Scripts\Düşman\DamageController.cs" />
-    <Compile Include="Assets\Scripts\Düşman\EnemyBullet.cs" />
     <Compile Include="Assets\Scripts\Backgorund\ObjeMoment.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Backgorund\AnaMenu.cs" />
-    <Compile Include="Assets\Scripts\Düşman\EnemyHealth.cs" />
     <Compile Include="Assets\Scripts\Backgorund\UIManager.cs" />
+    <Compile Include="Assets\Scripts\Enemy\EnemyBullet.cs" />
     <Compile Include="Assets\Scripts\Player\BulletController.cs" />
+    <Compile Include="Assets\Scripts\Enemy\DamageController.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
-    <Compile Include="Assets\Scripts\Düşman\EnemyController.cs" />
     <Compile Include="Assets\Scripts\Backgorund\BackgroundReply.cs" />
   </ItemGroup>
   <ItemGroup>

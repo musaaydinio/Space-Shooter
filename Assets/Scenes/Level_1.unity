@@ -1055,8 +1055,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeeds: 5
-  minX: -2
-  maxX: 2
+  minX: -6
+  maxX: 6
   minY: -3.7
   maxY: 2
   bulletObje: {fileID: 1844945889196752285, guid: 61a8f6b18a3a2ea41ab7d0cedb53b1ef, type: 3}
@@ -2715,8 +2715,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3060dbc7c3437d541b952581a3a43410, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minX: -2
-  maxX: 2
+  minX: -6
+  maxX: 6
   sabitY: 6
   spawnTime: 3
   spawnPlanes:
@@ -4922,8 +4922,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3060dbc7c3437d541b952581a3a43410, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minX: -2
-  maxX: 2
+  minX: -6
+  maxX: 6
   sabitY: 6
   spawnTime: 10
   spawnPlanes:

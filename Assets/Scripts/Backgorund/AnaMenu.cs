@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// Oyunun giriþ arayüzündeki kullanýcý etkileþimlerini, sahne yüklemelerini ve oyundan çýkýþ iþlemlerini yönetiyoruz.
 public class AnaMenu : MonoBehaviour
 {
     public void OyunaBasla()
